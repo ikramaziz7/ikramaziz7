@@ -10,8 +10,8 @@
 
 ### 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D6A4F?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikram-aziz)
-[![Email](https://img.shields.io/badge/Email-FF85A1?style=flat-square&logo=gmail&logoColor=white)](mailto:ikram.aziz@eurecom.fr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D6A4F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ikram-aziz-a7103b220/)
+[![Email](https://img.shields.io/badge/Email-FF85A1?style=flat-square&logo=gmail&logoColor=white)](mailto:ikramaziz408@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-F7E98E?style=flat-square&logo=vercel&logoColor=2D6A4F)](https://ikramaziz7.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-2D6A4F?style=flat-square&logo=github&logoColor=white)](https://github.com/ikramaziz7)
 
