@@ -8,9 +8,12 @@
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ikram.aziz@eurecom.fr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikram-aziz)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ikramaziz7.github.io)
+| | |
+|---|---|
+| 📧 **Email** | [ikram.aziz@eurecom.fr](mailto:ikram.aziz@eurecom.fr) |
+| 💼 **LinkedIn** | [linkedin.com/in/ikram-aziz](https://linkedin.com/in/ikram-aziz) |
+| 🌐 **Portfolio** | [ikramaziz7.github.io](https://ikramaziz7.github.io) |
+| 🐙 **GitHub** | [github.com/ikramaziz7](https://github.com/ikramaziz7) |
 
 </div>
 
