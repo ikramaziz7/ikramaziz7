@@ -4,6 +4,10 @@
 
 <br/>
 
+<img src="https://github.com/ikramaziz7.png" width="130" style="border-radius:50%"/>
+
+<br/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=16&pause=1200&color=3d7a78&center=true&vCenter=true&width=620&lines=Deep+Learning+%26+Medical+AI+🧠;IoT+%26+Embedded+Systems+🤖;Agentic+AI+%26+LLMs+🔬;Wireless+Networks+%26+Smart+Cities+🌐;Digital+Transformation+💡)](https://git.io/typing-svg)
 
 ---
