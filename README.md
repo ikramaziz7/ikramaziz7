@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0c,50:1c2b2a,100:0c0c0c&height=200&section=header&text=Ikram%20Aziz&fontSize=42&fontColor=e8dfd0&animation=fadeIn&fontAlignY=38&desc=MSc%20IoT%20·%20EURECOM%20·%20IA%20·%20Réseaux%20·%20Transformation%20Digitale&descSize=13&descAlignY=60&descColor=9a9080" />
-
-<br/>
-
-<img src="https://github.com/ikramaziz7.png" width="130" style="border-radius:50%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0c,50:1c2b2a,100:0c0c0c&height=200&section=header&text=✦%20Ikram%20Aziz%20✦&fontSize=42&fontColor=e8dfd0&animation=fadeIn&fontAlignY=38&desc=MSc%20IoT%20·%20EURECOM%20·%20IA%20·%20Réseaux%20·%20Transformation%20Digitale&descSize=13&descAlignY=60&descColor=9a9080" />
 
 <br/>
 
