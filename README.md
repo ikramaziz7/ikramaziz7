@@ -84,7 +84,7 @@ Real-time IoT parking system · Arduino · MQTT · live web dashboard
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ikramaziz7&bg_color=0d1117&color=2D6A4F&line=FF85A1&point=F7E98E&area=true&hide_border=true" width="94%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ikramaziz7&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1" width="94%"/>
 
 <br/>
 
